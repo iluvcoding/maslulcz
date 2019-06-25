@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Temporary Places</name>
+	<open>1</open>
+	<Document>
+		<name>enlarged_Chennai.kml</name>
+		<open>1</open>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Folder>
+			<name>mas_dummy_ext</name>
+			<open>1</open>
+			<Placemark>
+				<name>barren-1</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.05129036714078</longitude>
+					<latitude>12.99779005962487</latitude>
+					<altitude>0</altitude>
+					<heading>0.2668163596073064</heading>
+					<tilt>13.58672920008965</tilt>
+					<range>17685.5102806075</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.05746502253149,12.9732492034849,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-2</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.04298054526701</longitude>
+					<latitude>13.01488044065372</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01907841946865961</heading>
+					<tilt>4.754639123043916</tilt>
+					<range>10601.46778558826</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.04602907161475,13.02951311053816,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-3</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.00287250496599</longitude>
+					<latitude>13.10861702504563</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0298886202096203</heading>
+					<tilt>8.602874560793719</tilt>
+					<range>9708.931474792123</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.00813119958747,13.09158176675585,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-4</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.10615972847575</longitude>
+					<latitude>13.17062467296939</latitude>
+					<altitude>0</altitude>
+					<heading>-0.005202514309424389</heading>
+					<tilt>7.319471825184941</tilt>
+					<range>17874.56858582815</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.08235396576683,13.16795463153665,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-5</name>
+				<LookAt>
+					<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.16067269412146</longitude>
+					<latitude>13.20911280350202</latitude>
+					<altitude>0</altitude>
+					<heading>0.008142717398534328</heading>
+					<tilt>9.272409823053062</tilt>
+					<range>9359.779851337134</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.15303814282377,13.20522001529026,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-6</name>
+				<LookAt>
+					<gx:TimeStamp><when>2001-04-29</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.10932596460799</longitude>
+					<latitude>13.16685507448472</latitude>
+					<altitude>0</altitude>
+					<heading>0.0007251819899657273</heading>
+					<tilt>7.568726020207319</tilt>
+					<range>22215.36377428765</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.14501097465207,13.17353004586512,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-7</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.21963879967335</longitude>
+					<latitude>13.23362331738283</latitude>
+					<altitude>0</altitude>
+					<heading>0.02584108781390437</heading>
+					<tilt>7.569323744518292</tilt>
+					<range>22722.37591321918</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.22359767822103,13.24916355929099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-8</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.14772408829739</longitude>
+					<latitude>13.1458287350802</latitude>
+					<altitude>0</altitude>
+					<heading>0.02566676123546511</heading>
+					<tilt>9.234305774820427</tilt>
+					<range>12627.05993777586</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.13556526753666,13.14364502145484,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-9</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.10862771062493</longitude>
+					<latitude>13.08230131418024</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01890026561748726</heading>
+					<tilt>15.92912860705968</tilt>
+					<range>7880.373409654238</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.11120416963543,13.08430046240739,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-10</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.21615168288956</longitude>
+					<latitude>12.9082473497084</latitude>
+					<altitude>0</altitude>
+					<heading>0.002469989803450031</heading>
+					<tilt>20.09718390586778</tilt>
+					<range>21221.80563537098</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.21379125893617,12.88509339917784,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-11</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.06501428061296</longitude>
+					<latitude>12.94344912853141</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0313685664040255</heading>
+					<tilt>19.48525018351526</tilt>
+					<range>19802.03909449051</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.03595963241382,12.96035078054445,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-13</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.19440034766859</longitude>
+					<latitude>12.85756589630808</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00714871739284725</heading>
+					<tilt>22.62166792388089</tilt>
+					<range>22769.28960387727</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.19431102096918,12.85222933682311,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-14</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.18296300678057</longitude>
+					<latitude>12.86837009202912</latitude>
+					<altitude>0</altitude>
+					<heading>-0.009708009906682627</heading>
+					<tilt>22.64684119835453</tilt>
+					<range>30527.07827396771</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.14091883130094,12.83890706362718,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-15</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.16691278549078</longitude>
+					<latitude>12.82908194107519</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01334087808338124</heading>
+					<tilt>22.65998905951863</tilt>
+					<range>22366.87375434791</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.15793239602915,12.79711647616541,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-16</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.14626805236823</longitude>
+					<latitude>12.85968532101662</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01928204522181116</heading>
+					<tilt>25.35850153590735</tilt>
+					<range>13506.25873250553</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.15134835765237,12.86908854996492,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-17</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.16666914389647</longitude>
+					<latitude>12.99479109466951</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01631313076692724</heading>
+					<tilt>25.28147305716848</tilt>
+					<range>46697.90759849374</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.0654100081297,13.07800874246595,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-18</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.23496361207391</longitude>
+					<latitude>12.95539777291143</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001869191660887458</heading>
+					<tilt>25.44659362784726</tilt>
+					<range>143509.774750379</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.0355825178828,13.07822292994955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-19</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.0534262536673</longitude>
+					<latitude>13.02838010649564</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04861674057348371</heading>
+					<tilt>29.0631874680269</tilt>
+					<range>26822.98159282887</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.06764924155891,13.02600732295605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-20</name>
+				<LookAt>
+					<gx:TimeStamp><when>2001-08-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.14934539482174</longitude>
+					<latitude>13.17147397472767</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02689538030036166</heading>
+					<tilt>29.09461348206695</tilt>
+					<range>25347.55793455385</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.12041033021107,13.19500121890784,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-21</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>79.98859496245512</longitude>
+					<latitude>12.91971043893927</latitude>
+					<altitude>0</altitude>
+					<heading>-0.05183217188183135</heading>
+					<tilt>25.15838246010965</tilt>
+					<range>61026.9586695835</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.10373726548997,12.88220038226466,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-22</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.20854099772704</longitude>
+					<latitude>13.16860381393369</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01191055166925334</heading>
+					<tilt>26.48006309654541</tilt>
+					<range>38128.47711466681</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.23887390636558,13.22384850904134,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-23</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-12-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.21899247395841</longitude>
+					<latitude>12.79867031479601</latitude>
+					<altitude>0</altitude>
+					<heading>0.01196272496549683</heading>
+					<tilt>23.14204106252161</tilt>
+					<range>23912.85393150583</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.18742826803044,12.79026984996309,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-24</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.09285652617254</longitude>
+					<latitude>12.93291412812165</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01539953341156244</heading>
+					<tilt>22.66404512497018</tilt>
+					<range>9399.370407894747</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.06675916492922,12.95907125467523,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>barren-25</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.1458808893501</longitude>
+					<latitude>13.05971870653246</latitude>
+					<altitude>0</altitude>
+					<heading>-0.06916588800471428</heading>
+					<tilt>23.96542474996089</tilt>
+					<range>8279.147353013446</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.15283790699029,13.04550616545912,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>

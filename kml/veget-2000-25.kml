@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Temporary Places</name>
+	<open>1</open>
+	<Document>
+		<name>enlarged_Chennai.kml</name>
+		<open>1</open>
+		<Style id="sn_grn-stars">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="msn_grn-stars">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_grn-stars</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_grn-stars</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_grn-stars">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Folder>
+			<name>mas_dummy_ext</name>
+			<open>1</open>
+			<Placemark>
+				<name>veget-1</name>
+				<open>1</open>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.06963562459499</longitude>
+					<latitude>13.07599058155025</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02414356663102254</heading>
+					<tilt>44.10581128696835</tilt>
+					<range>62905.49856351654</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.00912521074251,13.20680620535052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-2</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.05247596094652</longitude>
+					<latitude>13.20162464954385</latitude>
+					<altitude>0</altitude>
+					<heading>0.01677280304429049</heading>
+					<tilt>36.68129993351016</tilt>
+					<range>7122.82949001922</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.05004274674839,13.22604912305778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-3</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.07279386528384</longitude>
+					<latitude>13.24130085397769</latitude>
+					<altitude>0</altitude>
+					<heading>0.04868895363907058</heading>
+					<tilt>33.48297437883033</tilt>
+					<range>7451.685035543877</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.06741855115243,13.23941917984295,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-4</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.1112665634726</longitude>
+					<latitude>13.26044389513387</latitude>
+					<altitude>0</altitude>
+					<heading>0.07054787779857195</heading>
+					<tilt>32.13282584217332</tilt>
+					<range>14733.57837854354</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.11655032680173,13.25541363642565,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-5</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.1071965998692</longitude>
+					<latitude>13.1631203017482</latitude>
+					<altitude>0</altitude>
+					<heading>0.08264282026222163</heading>
+					<tilt>30.80895277847744</tilt>
+					<range>12033.69145121802</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.11648416722704,13.15365501908127,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-6</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.04843468263236</longitude>
+					<latitude>13.06663788795818</latitude>
+					<altitude>0</altitude>
+					<heading>0.1623451649304661</heading>
+					<tilt>21.57433019188393</tilt>
+					<range>18322.81973341938</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.02639107926252,13.06567396008991,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-7</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.1766098876049</longitude>
+					<latitude>13.23544997258917</latitude>
+					<altitude>0</altitude>
+					<heading>0.09967636842624517</heading>
+					<tilt>30.67089609074327</tilt>
+					<range>9711.654301896669</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.17840459749277,13.23141142068038,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-8</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.13040440637421</longitude>
+					<latitude>13.07884944844016</latitude>
+					<altitude>0</altitude>
+					<heading>0.09347559396186661</heading>
+					<tilt>30.00663785723594</tilt>
+					<range>1477.840612988704</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.13247850416332,13.07775619541383,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-9</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.12555448957231</longitude>
+					<latitude>13.08202439398637</latitude>
+					<altitude>0</altitude>
+					<heading>0.09238738488860089</heading>
+					<tilt>30.0076658674223</tilt>
+					<range>1707.726021087354</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.1264000892611,13.08065881096897,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-10</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.1102716348591</longitude>
+					<latitude>13.07461582956991</latitude>
+					<altitude>0</altitude>
+					<heading>0.0889277832129456</heading>
+					<tilt>30.00584411151825</tilt>
+					<range>1301.123170327389</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.11195311326134,13.07534613872309,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-11</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.13393301588461</longitude>
+					<latitude>13.0504405093675</latitude>
+					<altitude>0</altitude>
+					<heading>0.09427068510574434</heading>
+					<tilt>30.00722303157768</tilt>
+					<range>1608.126973311051</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.13357871963213,13.05043951534782,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-12</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.11018628384475</longitude>
+					<latitude>13.01544265880191</latitude>
+					<altitude>0</altitude>
+					<heading>0.08891846792005667</heading>
+					<tilt>30.01361111394769</tilt>
+					<range>3030.363837995954</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.11591322297123,13.01529560030762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-13</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.18483949492173</longitude>
+					<latitude>12.99918607934194</latitude>
+					<altitude>0</altitude>
+					<heading>0.1208517924763125</heading>
+					<tilt>28.07691082062892</tilt>
+					<range>3047.291043661907</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.18314627634815,12.99989160766375,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-14</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.22197941398116</longitude>
+					<latitude>12.9971958616945</latitude>
+					<altitude>0</altitude>
+					<heading>0.1312008098414094</heading>
+					<tilt>27.84243508554011</tilt>
+					<range>3915.202179369876</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.22350290310659,12.9941482441038,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-15</name>
+				<Camera>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.1002380393721</longitude>
+					<latitude>12.87194276685969</latitude>
+					<altitude>7777.323061258763</altitude>
+					<heading>0.4676476869374069</heading>
+					<tilt>11.28370836469108</tilt>
+					<roll>0.5904795197711801</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.09053323081841,12.88852982057476,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-16</name>
+				<Camera>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.05657996070943</longitude>
+					<latitude>12.78571723700025</latitude>
+					<altitude>10247.35844109991</altitude>
+					<heading>0.4579563592786375</heading>
+					<tilt>11.2837083195483</tilt>
+					<roll>0.5956076850113041</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.07086827337477,12.81501200584104,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-17</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.11828343811177</longitude>
+					<latitude>12.96186632459889</latitude>
+					<altitude>0</altitude>
+					<heading>0.2428809431156186</heading>
+					<tilt>18.56183692237299</tilt>
+					<range>3074.804165375571</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.11416436188115,12.95980659501098,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-18</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.16429743699167</longitude>
+					<latitude>12.97567744694105</latitude>
+					<altitude>0</altitude>
+					<heading>0.2658001069123953</heading>
+					<tilt>17.89110750494091</tilt>
+					<range>3203.723257550162</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.16446469356052,12.9768214330962,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-19</name>
+				<Camera>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.05304663237234</longitude>
+					<latitude>12.73542842521913</latitude>
+					<altitude>37328.88344724361</altitude>
+					<heading>0.4340513217502559</heading>
+					<tilt>11.46187750547803</tilt>
+					<roll>0.5350902015042238</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.1076316612095,12.80080105434001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-20</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.21805988874551</longitude>
+					<latitude>13.00635580484431</latitude>
+					<altitude>0</altitude>
+					<heading>0.1716309900667664</heading>
+					<tilt>26.08033215689604</tilt>
+					<range>3517.281421145482</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.22263021367375,13.00757475148989,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-21</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.25173353007551</longitude>
+					<latitude>13.15299411918337</latitude>
+					<altitude>0</altitude>
+					<heading>0.1697294544467979</heading>
+					<tilt>27.09671827809352</tilt>
+					<range>13834.28396050852</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.25346043274197,13.15446032102067,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-22</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.27181970720088</longitude>
+					<latitude>13.25237411111557</latitude>
+					<altitude>0</altitude>
+					<heading>0.1744868265179079</heading>
+					<tilt>27.09586768090387</tilt>
+					<range>17059.75219073366</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.24722128738996,13.25489997235431,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-23</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.15871029054888</longitude>
+					<latitude>12.99502718321198</latitude>
+					<altitude>0</altitude>
+					<heading>0.2063749272263542</heading>
+					<tilt>22.4365465711086</tilt>
+					<range>3351.550306822812</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.16130561471792,12.99694799928856,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-24</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.10976963031402</longitude>
+					<latitude>12.99600087710746</latitude>
+					<altitude>0</altitude>
+					<heading>0.1618620535966535</heading>
+					<tilt>24.71338808419344</tilt>
+					<range>3911.474656592237</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.11423694047548,12.99665924972183,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>veget-25</name>
+				<LookAt>
+					<gx:TimeStamp><when>2000-11-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>80.1768082327123</longitude>
+					<latitude>13.06452838483664</latitude>
+					<altitude>0</altitude>
+					<heading>0.1463316765549916</heading>
+					<tilt>26.97003696773612</tilt>
+					<range>2842.76175253971</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-stars</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>80.17520857663268,13.06826594835599,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>

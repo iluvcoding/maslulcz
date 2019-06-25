@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Temporary Places</name>
+	<open>1</open>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Folder>
+	<Document>
+		<name>enlarged_Chennai.kml</name>
+		<open>1</open>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder>
+			<name>mas_dummy_ext</name>
+			<visibility>0</visibility>
+			<open>1</open>
+		</Folder>
+		<Placemark>
+			<name>veget-1</name>
+			<LookAt>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.03086495074282</longitude>
+				<latitude>13.14934355951284</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03913027695547933</heading>
+				<tilt>41.74743657725723</tilt>
+				<range>14276.62340876259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.02446715410638,13.18964846147449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-2</name>
+			<LookAt>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.05680250234177</longitude>
+				<latitude>13.19858224965899</latitude>
+				<altitude>0</altitude>
+				<heading>-0.039810022939748</heading>
+				<tilt>39.72291879248636</tilt>
+				<range>11164.97945781834</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.07607851040677,13.18527341093733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-3</name>
+			<LookAt>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.08718416400231</longitude>
+				<latitude>13.22104855138813</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03285987998056581</heading>
+				<tilt>39.72291879248639</tilt>
+				<range>11164.97945782164</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.09137672400162,13.23633413093577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-4</name>
+			<LookAt>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.17432834907061</longitude>
+				<latitude>13.16048244987925</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02037158599781944</heading>
+				<tilt>38.28504346205509</tilt>
+				<range>22387.8306011258</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.219780841982,13.15402089581284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-5</name>
+			<LookAt>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.22080839980958</longitude>
+				<latitude>13.25783351696174</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02516600043026598</heading>
+				<tilt>35.66000012643582</tilt>
+				<range>9203.363111540355</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.22516318779179,13.2710574391156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-6</name>
+			<LookAt>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.09370593245096</longitude>
+				<latitude>13.16307898316421</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05398577758988882</heading>
+				<tilt>35.68718723908967</tilt>
+				<range>14402.48969403803</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.11005072508905,13.15193549776757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-7</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.02114530390681</longitude>
+				<latitude>13.07482499795196</latitude>
+				<altitude>15984.02704759142</altitude>
+				<heading>-0.06698678596863224</heading>
+				<tilt>35.61183767197516</tilt>
+				<roll>-0.7993819235352682</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.00839378530253,13.15261124826379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-8</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.11099488321082</longitude>
+				<latitude>13.0516276580392</latitude>
+				<altitude>8079.858740294942</altitude>
+				<heading>-0.06734314730545567</heading>
+				<tilt>34.76719704092309</tilt>
+				<roll>-0.8211797251158837</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.11860555350765,13.09202004670845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-9</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.12895163149372</longitude>
+				<latitude>12.96430928614163</latitude>
+				<altitude>10307.86927177072</altitude>
+				<heading>-0.1490074985432041</heading>
+				<tilt>31.58667442694057</tilt>
+				<roll>-0.9101152596894</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.12948421059882,13.0005741290548,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-10</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.0344996659389</longitude>
+				<latitude>12.88674915268284</latitude>
+				<altitude>9238.956670417327</altitude>
+				<heading>-0.1882331992266539</heading>
+				<tilt>31.03645454183065</tilt>
+				<roll>-0.9907312865571</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.0370447827667,12.9397545561774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-11</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.05566900683652</longitude>
+				<latitude>12.85405226597256</latitude>
+				<altitude>9238.956670420159</altitude>
+				<heading>-0.1834981319909228</heading>
+				<tilt>31.03645454183066</tilt>
+				<roll>-0.9907312865570413</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.04965059414945,12.90988213338108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-12</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.07625314792428</longitude>
+				<latitude>12.8835497954502</latitude>
+				<altitude>20032.93139462548</altitude>
+				<heading>-0.2990157878780139</heading>
+				<tilt>27.92099828420101</tilt>
+				<roll>-1.11208046162533</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.07681092429958,12.97145222059279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-13</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.14933397155885</longitude>
+				<latitude>12.82234275731734</latitude>
+				<altitude>13213.48762513805</altitude>
+				<heading>-0.2568083025852828</heading>
+				<tilt>28.55228263327641</tilt>
+				<roll>-1.094620689892489</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.16046233212663,12.8923483761954,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-14</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.02028774931235</longitude>
+				<latitude>13.0078033682975</latitude>
+				<altitude>13718.255136331</altitude>
+				<heading>-0.4338196201780745</heading>
+				<tilt>25.54852937532437</tilt>
+				<roll>-1.405002555145679</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.0232236195003,13.06366038182603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-15</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.0611453368723</longitude>
+				<latitude>13.00892042159641</latitude>
+				<altitude>20219.34066989452</altitude>
+				<heading>-0.4245636887636052</heading>
+				<tilt>25.54852936994671</tilt>
+				<roll>-1.401619531159545</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.08540946939239,13.0646960711829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-16</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.17347523696723</longitude>
+				<latitude>13.18619358814876</latitude>
+				<altitude>13211.66347829967</altitude>
+				<heading>-0.4204012022617565</heading>
+				<tilt>25.15598322020768</tilt>
+				<roll>-1.309830438540332</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.17533710635465,13.24754427296764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-17</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.15234002857943</longitude>
+				<latitude>13.01595898425116</latitude>
+				<altitude>10324.70594906726</altitude>
+				<heading>-0.3660198740281954</heading>
+				<tilt>26.27456922528503</tilt>
+				<roll>-1.277901240862441</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.15624848194062,13.05105847317731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-18</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.10677995824514</longitude>
+				<latitude>12.81947958934587</latitude>
+				<altitude>9197.499841530922</altitude>
+				<heading>-0.3808504627479483</heading>
+				<tilt>26.17659939143845</tilt>
+				<roll>-1.313226342760902</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.10942374328731,12.85749153786823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-19</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.16387706688811</longitude>
+				<latitude>12.57756775594668</latitude>
+				<altitude>63672.84741212935</altitude>
+				<heading>-0.3976965994282821</heading>
+				<tilt>25.56634021277355</tilt>
+				<roll>-1.290559571556972</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.07025143890337,12.81198697876926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-20</name>
+			<open>1</open>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.16882607546648</longitude>
+				<latitude>12.76894231315133</latitude>
+				<altitude>9377.500323069366</altitude>
+				<heading>-0.3408296855996492</heading>
+				<tilt>26.67448233864118</tilt>
+				<roll>-1.245603780192493</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.16401326394151,12.80809962678174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-21</name>
+			<open>1</open>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.20607884238134</longitude>
+				<latitude>12.87024092875186</latitude>
+				<altitude>8798.004454721002</altitude>
+				<heading>-0.9404401164047993</heading>
+				<tilt>18.09678651370242</tilt>
+				<roll>-1.827821704637249</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.19804700946639,12.89573793802703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-22</name>
+			<open>1</open>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.10572199791126</longitude>
+				<latitude>13.00140806645165</latitude>
+				<altitude>9099.927776117669</altitude>
+				<heading>-0.8368543518483172</heading>
+				<tilt>19.39227785965668</tilt>
+				<roll>-1.736574003087969</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.09612613311994,13.02647985106868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-23</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.14347143178726</longitude>
+				<latitude>12.80239663713758</latitude>
+				<altitude>13038.03769174046</altitude>
+				<heading>-0.6173027434369629</heading>
+				<tilt>21.95328323106294</tilt>
+				<roll>-1.558592063455144</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.13162020912921,12.84433837435983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-24</name>
+			<open>1</open>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.20259896416847</longitude>
+				<latitude>13.05060387244096</latitude>
+				<altitude>3779.095559963494</altitude>
+				<heading>-0.4431842184360462</heading>
+				<tilt>24.41918930311358</tilt>
+				<roll>-1.402477287150624</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.20710724449783,13.064428629486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>veget-25</name>
+			<Camera>
+				<gx:TimeStamp><when>1990-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>80.23032268910175</longitude>
+				<latitude>12.96938160182291</latitude>
+				<altitude>6385.760394728723</altitude>
+				<heading>-0.378728040472622</heading>
+				<tilt>25.46134611253533</tilt>
+				<roll>-1.314221813356818</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.2345195023198,12.9977882983611,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>
